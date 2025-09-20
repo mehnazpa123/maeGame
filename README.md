@@ -41,16 +41,16 @@
 ### Screenshots (Add at least 3)
 
 ![Screenshot1](Add screenshot 1 link)  
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1toIObmUafmBAFO3qNv-P-OVzxdrhFUOT/view?usp=sharing
 
 ![Screenshot2](Add screenshot 2 link)  
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1xRHf6hSQqbmhNKOFcqhPN8t4Vu6PAkeG/view?usp=sharing
 
 ![Screenshot3](Add screenshot 3 link)  
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1rLSmWPVSVgJYEo1gRF2gZgW_MTYP5jmA/view?usp=sharing
 
 ### Game Demo
-
+https://drive.google.com/file/d/1o-5Z3bP2aQgDkdlWtA51PwW_cgkpwy8k/view?usp=sharing
 #### Gameplay Video
 [Add link to gameplay video]  
 
